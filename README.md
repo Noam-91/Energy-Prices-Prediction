@@ -22,8 +22,7 @@ We plan to use a Recurrent Neural Network.
 11/2/2022: Data Visualization. Feature Engineering. Apply simple models (Linear Regression, Logistic Regression).
 
 # Lisence:
-Authors:
-Kehang Chang (kehangc2@illinois.edu)  
+Authors:  
 Noam Yan (xuy3@illinois.edu)  
 Yunqian Bao (yunqian4@illinois.edu)  
 Zhicong Fan (zhicong2@illinois.edu)  
